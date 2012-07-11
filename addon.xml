@@ -8,11 +8,11 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <summary lang="de">South Park Folgen auf SouthPark.de gucken</summary>
-        <summary lang="en">Watch South Park episodes on SouthPark.de</summary>
+        <summary lang="de">South Park Folgen auf deutsch und englisch gucken</summary>
+        <summary lang="en">Watch german and english South Park episodes</summary>
         <language>de en</language>
-        <description lang="de">South Park Folgen auf SouthPark.de gucken</description>
-        <description lang="en">Watch South Park episodes on SouthPark.de</description>
+        <description lang="de">South Park Folgen auf deutsch und englisch gucken</description>
+        <description lang="en">Watch german and english South Park episodes</description>
         <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
     <platform>all</platform>
     </extension>
